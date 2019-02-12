@@ -1,0 +1,25 @@
+# Base configs
+baseurl: ""
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: ""
+
+# UI configs
+title: "Photography by Grace"
+subtitle: "See the world through my eyes!"
+author: "Grace"
+header:
+ title: "Photography"
+ subtitle: "by Grace"
+footer:
+ name: "Hey there, my name is Grace"
+ bio: "我是一名北京的摄影师。"
+ github: ""
+web_design: ""
+social_urls:
+  facebook: ""
+  twitter: ""
+  instagram: ""
+  dribbble: ""
+  linkedin: ""
+  github: ""
